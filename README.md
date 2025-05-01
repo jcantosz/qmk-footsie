@@ -19,14 +19,7 @@ Direct wired QMK footswitch keyboard
 
 ## Mac Users
 
-Modifier events are tied to the keyboard they happen on. To allow them to work across keyboards we need to compile/run an additional utility. One of the following will allow for that
-
-### Program to Use Modifiers Normally
-- Source: http://blog.tklee.org/2008/09/modifiers-across-keyboards.html
-
-### Program to Use Modifiers Sticky Keys
-- Source: https://www.middleendian.com/dual
-- Discussion: https://forums.macrumors.com/threads/using-two-keyboards-at-once.778484/?post=9421743#post-9421743
+Modifier events are tied to the keyboard they happen on. To allow them to work across keyboards we need to compile/run an additional utility. Compile the program in [mac](./mac).There are instructions in the comments to do that
 
 ![Open project box showing wiring](./img/project-box-open.jpg)
 ![Front of project box](./img/project-box-front.jpg)
